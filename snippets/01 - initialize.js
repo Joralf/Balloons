@@ -15,3 +15,5 @@ var config = {
         update: update
     }
 }
+
+var game = new Phaser.Game(config);

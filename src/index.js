@@ -21,7 +21,6 @@ const config = {
 
 const scaleRatio = window.devicePixelRatio / 3;
 
-
 const game = new Phaser.Game(config);
 
 function preload () {
